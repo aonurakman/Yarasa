@@ -4,6 +4,8 @@
 Samsung Innovation Campus: Final Project\
 Source Code File w/o Sound Source Localization Function
 
+This project aims to gather and classify the traffic sounds with Raspberry Pi, and later display visually from mobile app to the driver with hearing loss. I hope this will be beneficial for the future works for providing a safe driving for everyone.
+
 Technical Presentation (TR): [Drive Link](drive.google.com/file/d/1MsnYL0TvRR0PxL0HOKPzIwFXduhnYWt8/view?usp=sharing)
 
 URBANSOUND8K DATASET: [Link to Dataset](urbansounddataset.weebly.com/urbansound8k.html)
