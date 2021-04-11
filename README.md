@@ -35,7 +35,7 @@ On your Raspberry Pi, you should follow instructions given on [Yurockkk's Repist
 
 Simply run [Yarasa-Pi.py](https://github.com/aonurakman/Yarasa/blob/main/Yarasa-Pi.py) on your Raspberry Pi. If this is your first time running such program on your Pi, you might struggle with libraries for some time, thanks to the limited resources of the Rasbian environment.
 
-The Android device that has the [Yarasa - Android.rar](https://github.com/aonurakman/Yarasa/blob/main/Yarasa%20-%20Android.rar) on it should be connected to your good ol' Pi via Blueooth.
+The Android device that has the [Yarasa - Android.rar](https://github.com/aonurakman/Yarasa/blob/main/Yarasa%20-%20Android.rar) on it should be connected to your Pi via Bluetooth.
 
 And that should do it. This project is open for improvements, especially for the sound source localization. Together we can build an equally safe, easy, and enjoyable living for everyone.
 
