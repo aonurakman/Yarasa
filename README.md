@@ -10,13 +10,11 @@ This project aims to gather and classify the traffic sounds with Raspberry Pi, a
 
 URBANSOUND8K DATASET: [Link to Dataset](https://urbansounddataset.weebly.com/urbansound8k.html)
 
-## File Placement
+## What's included?
 
-[Yarasa - Android.rar](https://github.com/aonurakman/Yarasa/blob/main/Yarasa%20-%20Android.rar) may be reviewed on Android Studio, to-be-created .apk file may be installed on an Android device.
+[Yarasa - Android.zip](https://github.com/aonurakman/Yarasa/blob/876aeb5e36355f34804774808dd330efb2b052db/Yarasa%20-%20Android.zip) is to-be-created .apk file may be installed on an Android device.
 
-[Yarasa-Pi.py](https://github.com/aonurakman/Yarasa/blob/main/Yarasa-Pi.py) file should be located on your Raspberry Pi.
-
-[classifier.h5](https://github.com/aonurakman/Yarasa/blob/main/classifier.h5) , [classifier_weights.data-00000-of-00001](https://github.com/aonurakman/Yarasa/blob/main/classifier_weights.data-00000-of-00001) , [classifier_weights.index](https://github.com/aonurakman/Yarasa/blob/main/classifier_weights.index) , [tran.pkl](https://github.com/aonurakman/Yarasa/blob/main/tran.pkl) shall be placed on the same directory with [Yarasa-Pi.py](https://github.com/aonurakman/Yarasa/blob/main/Yarasa-Pi.py).
+Contents of [Yarasa - Pi](https://github.com/aonurakman/Yarasa/tree/876aeb5e36355f34804774808dd330efb2b052db/Yarasa%20-%20Pi) should be placed on a directory of your choice on your Raspberry Pi.
 
 ## Usage
 
@@ -35,15 +33,15 @@ Simply run [Yarasa-Pi.py](https://github.com/aonurakman/Yarasa/blob/main/Yarasa-
 
 The Android device that has the [Yarasa - Android.rar](https://github.com/aonurakman/Yarasa/blob/main/Yarasa%20-%20Android.rar) on it should be connected to your Pi via Bluetooth.
 
-And that should do it. This project is open for improvements, especially for sound source localization. Together we can build an equally safe, easy, and enjoyable living for everyone.
+And that should do it. This project is a very basic first step, and certainly open for improvements, especially for sound source localization. Together we can build an equally safe, easy, and enjoyable living for **everyone**.
 
 ### Onur
 
 ## Major Shout-Outs To
 
-For this incredible dataset, [URBANSOUND8K](https://urbansounddataset.weebly.com/urbansound8k.html)\
+For this great dataset, [URBANSOUND8K](https://urbansounddataset.weebly.com/urbansound8k.html)\
 Bluetooth connection, Pi side: [Yurockkk's Bluetooth-RPi-Python](https://github.com/Yurockkk/Bluetooth-RPi-Python)\
 Bluetooth connection, Android side: [Yurockkk's Bluetooth-RPi](https://github.com/Yurockkk/Bluetooth-RPi)\
-Data preprocessing: [Shubham Gupta's work](https://towardsdatascience.com/urban-sound-classification-using-neural-networks-9b6fcd8a9150)
+Signal processing: [Shubham Gupta's work](https://towardsdatascience.com/urban-sound-classification-using-neural-networks-9b6fcd8a9150)
 
 
